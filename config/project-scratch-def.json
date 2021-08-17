@@ -6,7 +6,8 @@
     "SUSTAINABILITYCLOUD",
     "AnalyticsAdminPerms",
     "DevelopmentWave",
-    "EinsteinAnalyticsPlus"
+    "EinsteinAnalyticsPlus",
+    "enableSetPasswordInApi"
   ],
   "settings": {
     "communitiesSettings": {
@@ -20,11 +21,6 @@
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
     }
   }
 }
